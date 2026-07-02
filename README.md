@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse, Working as a Software Development teacher in The Netherlands. I am always eager to learn more about this wonderful field. I have a deep interest in design patterns, code quality (there are always ways to improve) and low-level stuff. My hobbies are: gaming and programming (or other IT-related stuff).
   Father of three beautiful daughters, Sofie*, Loua and Rosie.
-- 🌱 I’m currently learning C and Embedded Programming.
+- 🌱 I’m currently learning Rust and Embedded Programming.
 
 <!---
 jesse-kroon/jesse-kroon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
